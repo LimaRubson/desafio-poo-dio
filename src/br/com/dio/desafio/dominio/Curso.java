@@ -25,7 +25,7 @@ public class Curso extends Conteudo {
     public String toString() {
         return "Curso{" +
                 "titulo='" + getTitulo() + '\'' +
-                ", descrição='" + getDescrição() + '\'' +
+                ", descrição='" + getDescricao() + '\'' +
                 ", cargaHoraria=" + cargaHoraria +
                 '}';
     }
